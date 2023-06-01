@@ -12,4 +12,4 @@
 
 #### I'm just started learning Javascript, I would be very happy if you would like to accompany or help me in this process.
 
-<small align ="center">**_Thank you for the visit_** 🍻 </small>
+<p align ="center">Thank you for the visit🍻 </p>
