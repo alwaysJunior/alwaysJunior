@@ -1,6 +1,5 @@
-# hi guys, i'm Emre 😺
-![Canada Cup 2018 Logo](https://startgg.imgix.net/images/tournament/56753/image-27e8c63e576a1311f73a7851b15c417d.png)
-
+# Hi guys,  I'm Emre 
+![home](https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif)
 
 
 - 👋 I'm trying to be a frontend developer. 
