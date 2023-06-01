@@ -1,4 +1,4 @@
-# Hi, I'm Emre :smile_cat: ![Hello](https://images.app.goo.gl/qwgFAc3txyfEv8tk7)
+# Hi, I'm Emre :smile_cat: 
 
 
 
@@ -10,4 +10,4 @@
 
 #### I'm just starting to learn Javascript, I would be very happy if you would like to accompany or help me in this process.
 
-`<h2>Thank you for the visit.</h2`
+**_Thank you for the visit_**
