@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/zxbDHFr1NCr0LXHBMU/giphy.gif" alt="keep going"/>
 </p>
-<p align="center">Hi guys, I'm Emre</p>:smiley_cat:
+<p align="center">Hi guys, I'm Emre :smiley_cat:</p>
 
 - 👋 I'm trying to be a frontend developer. 
 - 👀 I’m eager to learn frontend technologies and love to follow the updates.
