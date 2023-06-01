@@ -1,4 +1,4 @@
-# Hi, I'm Emre :smile_cat:![Hello](/Users/emreerdogan/Downloads/hand-g04c534883_640.png)
+# Hi, I'm Emre :smile_cat:![Hello](https://pixabay.com/tr/illustrations/el-dalga-hareket-parmaklar-merhaba-2415036/)
 
 
 
@@ -10,4 +10,4 @@
 
 #### I'm just starting to learn Javascript, I would be very happy if you would like to accompany or help me in this process.
 
-`<h2>Thank you for the visit.:handshake:</h2`
+`<h2>Thank you for the visit.</h2`
