@@ -3,7 +3,7 @@
 
 
 - 👋 I'm trying to be a frontend developer. 
-- 👀 I’m eager to learn frontend technologies and love to follow to updates.
+- 👀 I’m eager to learn frontend technologies and love to follow the updates.
 - 🌱 I’m currently learning Javascript...
 - 📫 How to reach me [here] {https://www.emrerdogan.com}
 - 🎯 I find some solutions on Frontend Mentor, you can check my [here] {https://www.frontendmentor.io/profile/alwaysJunior}
