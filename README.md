@@ -12,4 +12,4 @@
 
 > I'm just started learning Javascript, I would be very happy if you would like to accompany or help me in this process.
 
-**_Thank you for visiting🍻_**
+**_Thanks for visiting🍻_**
