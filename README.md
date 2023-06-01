@@ -1,6 +1,9 @@
 # Hi guys,  I'm Emre 
 ![home](https://media.giphy.com/media/zxbDHFr1NCr0LXHBMU/giphy.gif)
 
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 - 👋 I'm trying to be a frontend developer. 
 - 👀 I’m eager to learn frontend technologies and love to follow the updates.
