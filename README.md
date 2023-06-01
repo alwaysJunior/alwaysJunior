@@ -1,5 +1,5 @@
 # Hi guys,  I'm Emre 
-![home](https://media.giphy.com/media/S7QyHS8EOjLGSDRAyF/giphy.gif)
+![home](https://media.giphy.com/media/zxbDHFr1NCr0LXHBMU/giphy.gif)
 
 
 - 👋 I'm trying to be a frontend developer. 
